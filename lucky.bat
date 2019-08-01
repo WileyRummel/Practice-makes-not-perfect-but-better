@@ -1,0 +1,1 @@
+@py.exe C:\Users\12146\Desktop\Python Books\atbs\lucky.py %*
